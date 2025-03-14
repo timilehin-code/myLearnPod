@@ -8,6 +8,9 @@
     <title>FrontEnd development - Learnpod academy</title>
 </head>
 <body>
+    <body class="bg-primary p-3">
+        <p class="text-center text-white">Register now and get 50% last-minute offer</p>
+    </body>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/js/bootstrap.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 </body>
 </html>
