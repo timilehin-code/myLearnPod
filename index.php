@@ -18,60 +18,100 @@
 
     <body>
         <div class="bg-primary p-2 z-3">
-            <p class="text-center text-white fw-bold fs-5">Register now and get 50% last-minute offer</p>
+            <p class="text-center text-white fw-medium fs-5">Register now and get 50% last-minute offer</p>
         </div>
-        <div class="bg-black p-2">
+        <div class="bg-black p-3">
 
             <div class="container">
                 <div class="hero mt-3">
-                    <div class="logo">
-                        <a href=""><img src="assets/images/LearnPOD-logo-300x55.png" alt=""></a>
-                    </div>
-                    <div class="hero-text mt-2">
-                        <h5 class="text-white fw-normal mx-3">Ready to elevate your skills?</h5>
 
-                        <h2 class=" mx-3 fw-bold">
-                            Join our
-                        </h2>
-                        <h1 class="mx-3 fw-bold">
-                            Frontend <br>
-                            Development.
-                        </h1>
-                        <h2 class="mx-3 fw-bold">
-                            Live Classes
-                        </h2>
-                    </div>
-                    <!-- date,time and location  venue-->
-                    <div class="details mx-3">
-                        <div class="group-1">
-                            <p>
-                                <i class="fa-solid fa-calendar"> </i>
-                                <span class="mx-3">April 1, 2025</span>
-                            </p>
-                            <p>
-                                <i class="fa-solid fa-chalkboard"> </i>
-                                <span class="mx-3">Virtual Live Classes</span>
-                            </p>
-                            <p>
-                                <i class="fa-solid fa-users"></i>
-                                <span class="mx-3">24/7 Support Community <br>(Chat, Audio, Video) </span>
-                            </p>
+                    <div class="hero-content">
+                        <div class="hero-text mt-2">
+                            <div class="logo">
+                                <a href=""><img src="assets/images/LearnPOD-logo-300x55.png" alt=""></a>
+                            </div>
+                            <h5 class="text-white fw-normal mt-2 mx-3">Ready to elevate your skills?</h5>
+
+                            <h2 class=" mx-3 fw-bold">
+                                Join our
+                            </h2>
+                            <h1 class="mx-3 fw-bold">
+                                Frontend <br>
+                                Development.
+                            </h1>
+                            <h2 class="mx-3 fw-bold">
+                                Live Classes
+                            </h2>
+                            <div class="details mx-3">
+                                <div class="content-left ">
+                                    <div class="">
+                                        <!-- date,time and location  venue-->
+                                        <p>
+                                            <i class="fa-solid fa-calendar"> </i>
+                                            <span class="mx-3">April 1, 2025</span>
+                                        </p>
+                                        <p>
+                                            <i class="fa-solid fa-chalkboard"> </i>
+                                            <span class="mx-3">Virtual Live Classes</span>
+                                        </p>
+                                        <p>
+                                            <i class="fa-solid fa-users"></i>
+                                            <span class="mx-3">24/7 Support Community <br> (Chat, Audio, Video) </span>
+                                        </p>
+                                    </div>
+                                    <div class="group-2">
+                                        <p>
+                                            <i class="fa-solid fa-clock"></i>
+                                            <span class="mx-3">4 Months </span>
+                                        </p>
+                                        <p>
+                                            <i class="fa-solid fa-user-tie"></i>
+                                            <span class="mx-3">Internship Opportunities</span>
+                                        </p>
+                                        <p>
+                                            <i class="fa-solid fa-briefcase"></i>
+                                            <span class="mx-3">Opportunities</span>
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <h6 class="text-white fw-normal mt-4">Join our online courses today for a seamless, interactive virtual
+                            learning experience!</h6>
                         </div>
-                        <div class="group2 mx-4">
-                            <p>
-                                <i class="fa-solid fa-clock"></i>
-                                <span>4 Months </span>
-                            </p>
-                            <p>
-                                <i class="fa-solid fa-user-tie"></i>
-                                <span class="mx-3">Internship Opportunities</span>
-                            </p>
-                            <p>
-                                <i class="fa-solid fa-briefcase"></i>
-                                <span class="mx-3">Opportunities</span>
-                            </p>
+                        <!-- hero form -->
+                        <div class="hero-form">
+                            <h4 class="text-center text-white">
+                                Secure Your Spot
+                            </h4>
+                            <h6 class="text-center text-white">Enjoy a mind blowing learning experience.</h6>
+                            <form action="" class="mt-4" method="post">
+                                <div class="d-block">
+                                    <label for="" class="p-2 fw-bold text-white">First Name</label><br>
+                                    <input type="text" name="" id="" class="w-100 p-2"><br>
+                                </div>
+                                <div class="d-block">
+                                    <label for="" class="p-2 fw-bold text-white">Last Name</label><br>
+                                    <input type="text" name="" id="" class="w-100 p-2"><br>
+                                </div>
+                                <div class="d-block">
+                                    <label for="" class="p-2 fw-bold text-white">Phone Number</label><br>
+                                    <input type="text" name="" id="" class="w-100 p-2"><br>
+                                </div>
+                                <div class="d-block">
+                                    <label for="" class="p-2 fw-bold text-white">Email Adress</label><br>
+                                    <input type="email" name="" id="" class="w-100 p-2"><br>
+                                </div>
+                                <div class="d-block">
+                                    <label for="" class="p-2 fw-bold text-white">Password</label><br>
+                                    <input type="password" name="" id="" class="w-100 p-2"><br>
+                                </div>
+                                <div class="d-block mt-3">
+                                    <button type="submit" class="p-2 border-0 text-white text-uppercase">Register</button>
+                                </div>
+                            </form>
                         </div>
                     </div>
+                   
                 </div>
             </div>
         </div>

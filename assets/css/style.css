@@ -1,30 +1,65 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap");
 
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
-
-:root{
-    --yellow : #fdc500;
-    --green : #7bb135;
-    --white : #f1f1f1;
-    --font-1 : "Roboto Slab", serif;
+:root {
+  --yellow: #fdc500;
+  --green: #7bb135;
+  --white: #f1f1f1;
+  --orange: #ff7701;
+  --pink:#e91e63;
+  --font-1: "Roboto Slab", serif;
 }
 
-.hero-text h1{
-    font-family: var(--font-1);
-    color: var(--yellow);
-    font-size: 4rem;
+.hero-text h1 {
+  font-family: var(--font-1);
+  color: var(--yellow);
+  font-size: 4rem;
+}
+.hero-content {
+  display: flex;
+  /* align-items: center; */
+  justify-content: space-between;
+}
+.hero-text h2 {
+  font-family: var(--font-1);
+  color: var(--green);
+}
+.hero-text h5 {
+  font-family: var(--font-1);
+}
+.content-left {
+  font-family: var(--font-1);
+  color: var(--white);
+  display: flex;
+}
 
+.hero-form form input{
+    width: 100%;
 }
-.hero-text h2{
-    font-family: var(--font-1);
-    color: var(--green);
+.hero-form form input:focus{
+    outline: none;
+    border: 1px solid var(--orange);
+}
+.hero-form form button{
+    width: 100%;
+    background-color: var(--orange);
+    transition: background 500ms ease;
+}
 
+.hero-form form button:hover{
+    background-color: var(--pink);
 }
-.hero-text h5{
-    font-family: var(--font-1);
+.group-2{
+    margin-left: 5px;
 }
-.details{
-    font-family: var(--font-1);
-    color: var(--white);
-    display: flex;
-   
+
+@media screen and (min-width:480px) and (max-width:640px) {
+    .hero-content{
+        display: block;
+    }
+    .content-left{
+        display: block;
+    }
+    .group-2{
+        margin-left: 0;
+    }
 }
