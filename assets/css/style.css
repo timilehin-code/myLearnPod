@@ -4,19 +4,27 @@
 :root{
     --yellow : #fdc500;
     --green : #7bb135;
+    --white : #f1f1f1;
+    --font-1 : "Roboto Slab", serif;
 }
 
 .hero-text h1{
-    font-family: "Roboto Slab", serif;
+    font-family: var(--font-1);
     color: var(--yellow);
     font-size: 4rem;
 
 }
 .hero-text h2{
-    font-family: "Roboto Slab", serif;
+    font-family: var(--font-1);
     color: var(--green);
 
 }
 .hero-text h5{
-    font-family: "Roboto Slab", serif;
+    font-family: var(--font-1);
+}
+.details{
+    font-family: var(--font-1);
+    color: var(--white);
+    display: flex;
+   
 }
