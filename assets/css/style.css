@@ -7,6 +7,8 @@
   --orange: #ff7701;
   --pink:#e91e63;
   --grey: #929aad;
+  --white-300:#d8d8d8;
+  --blue: #2d7ebf;
   --font-1: "Roboto Slab", serif;
 }
 
@@ -64,6 +66,27 @@
     justify-content: space-evenly;
 }
 
+.icon{
+  background-color: var(--blue) !important;
+  padding: 16px;
+  border-radius: 50%;
+  width: 45% !important;
+  margin-left: 45px !important;
+
+}
+
+.cards div{
+  background-color: var(--white-300);
+  margin-left: 8px;
+  width: 20.5%;
+}
+
+.cards div h3{
+  font-family: var(--font-1);
+  width: 118%;
+  margin-left: -13px;
+  font-size: 10px;
+}
 @media screen and (min-width:480px) and (max-width:640px) {
     .hero-content{
         display: block;
@@ -73,5 +96,8 @@
     }
     .group-2{
         margin-left: 0;
+    }
+    .cards{
+      display: none;
     }
 }

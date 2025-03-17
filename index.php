@@ -118,8 +118,8 @@
             </div>
         </div>
         <!-- second section -->
-        <div class="section-2 mt-5">
-            <div class="container fw-lighter">
+        <div class="container section-2 mt-5">
+            <div class=" fw-lighter">
                 <h1 class="text-primary">Course Description</h1>
                 <p class="">Front-end Web developers build web pages that are a little bit more
                     complicated than your simple
@@ -130,16 +130,56 @@
                     application. As a front end developer you are responsible for the look, feel and ultimately
                     converting design (UI/UX) of the site to a usable.</p>
 
-                <p class=""> Frontend developers have good coding skills with a good understanding of design. These allow them to
+                <p class=""> Frontend developers have good coding skills with a good understanding of design. These
+                    allow them to
                     build catchy websites or web-based apps that are animated or interact with users.</p>
 
-                <p class=""> It’s important to realize that Front-end web developers are different to Back-end developers who
+                <p class=""> It’s important to realize that Front-end web developers are different to Back-end
+                    developers who
                     focus on the server side of an application and everything that communicates between the database
                     side of the application.</p>
             </div>
             <div class="cards">
                 <div class="p-3">
-
+                    <div class="icon">
+                        <i class="fa-solid fa-laptop-code fa-2xl text-light text-center"></i>
+                    </div>
+                    <h3 class="text-dark text-center">Online <br>live Classes</h3>
+                </div>
+                <div class="p-3">
+                    <div class="icon">
+                    <i class="fa-solid fa-chalkboard-user text-center fa-2xl text-light"></i>
+                    </div>
+                    <h3 class="text-dark text-center">Experienced
+                    Tutors</h3>
+                </div>
+                <div class="p-3">
+                    <div class="icon">
+                    <i class="fa-solid fa-chalkboard-user text-center fa-2xl text-light"></i>
+                    </div>
+                    <h3 class="text-dark text-center">Project based
+                    learning</h3>
+                </div>
+                <div class="p-3">
+                    <div class="icon">
+                    <i class="fa-solid fa-building-columns fa-2xl text-light"></i>
+                    </div>
+                    <h3 class="text-dark text-center">Build your
+                    Portfolio</h3>
+                </div>
+                <div class="p-3">
+                    <div class="icon">
+                    <i class="fa-solid fa-certificate fa-2xl text-light"></i>
+                    </div>
+                    <h3 class="text-dark text-center">Become
+                    Certified</h3>
+                </div>
+                <div class="p-3">
+                    <div class="icon">
+                    <i class="fa-solid fa-link fa-2xl text-light"></i>
+                    </div>
+                    <h3 class="text-dark text-center">Land your
+                    dream job</h3>
                 </div>
             </div>
         </div>
