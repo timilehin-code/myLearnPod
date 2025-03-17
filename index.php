@@ -75,8 +75,9 @@
                                     </div>
                                 </div>
                             </div>
-                            <h6 class="text-white fw-normal mt-4">Join our online courses today for a seamless, interactive virtual
-                            learning experience!</h6>
+                            <h6 class="text-white fw-normal mt-4">Join our online courses today for a seamless,
+                                interactive virtual
+                                learning experience!</h6>
                         </div>
                         <!-- hero form -->
                         <div class="hero-form">
@@ -106,12 +107,39 @@
                                     <input type="password" name="" id="" class="w-100 p-2"><br>
                                 </div>
                                 <div class="d-block mt-3">
-                                    <button type="submit" class="p-2 border-0 text-white text-uppercase">Register</button>
+                                    <button type="submit"
+                                        class="p-2 border-0 text-white text-uppercase">Register</button>
                                 </div>
                             </form>
                         </div>
                     </div>
-                   
+
+                </div>
+            </div>
+        </div>
+        <!-- second section -->
+        <div class="section-2 mt-5">
+            <div class="container fw-lighter">
+                <h1 class="text-primary">Course Description</h1>
+                <p class="">Front-end Web developers build web pages that are a little bit more
+                    complicated than your simple
+                    template-based CMS.</p>
+
+                <p class=""> Front-End Web developer manages everything that users visually see first in
+                    their browser or
+                    application. As a front end developer you are responsible for the look, feel and ultimately
+                    converting design (UI/UX) of the site to a usable.</p>
+
+                <p class=""> Frontend developers have good coding skills with a good understanding of design. These allow them to
+                    build catchy websites or web-based apps that are animated or interact with users.</p>
+
+                <p class=""> It’s important to realize that Front-end web developers are different to Back-end developers who
+                    focus on the server side of an application and everything that communicates between the database
+                    side of the application.</p>
+            </div>
+            <div class="cards">
+                <div class="p-3">
+
                 </div>
             </div>
         </div>
