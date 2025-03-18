@@ -5,11 +5,16 @@
   --green: #7bb135;
   --white: #f1f1f1;
   --orange: #ff7701;
-  --pink:#e91e63;
+  --pink: #e91e63;
   --grey: #929aad;
-  --white-300:#d8d8d8;
+  --white-300: #d8d8d8;
   --blue: #2d7ebf;
   --font-1: "Roboto Slab", serif;
+}
+
+::selection {
+  background-color: var(--orange);
+  color: var(--white);
 }
 
 .hero-text h1 {
@@ -35,69 +40,81 @@
   display: flex;
 }
 
-.hero-form form input{
-    width: 100%;
+.hero-form form input {
+  width: 100%;
 }
-.hero-form form input:focus{
-    outline: none;
-    border: 1px solid var(--orange);
+.hero-form form input:focus {
+  outline: none;
+  border: 1px solid var(--orange);
 }
-.hero-form form button{
-    width: 100%;
-    background-color: var(--orange);
-    transition: background 500ms ease;
+.hero-form form button {
+  width: 100%;
+  background-color: var(--orange);
+  transition: background 500ms ease;
 }
 
-.hero-form form button:hover{
-    background-color: var(--pink);
+.hero-form form button:hover {
+  background-color: var(--pink);
 }
-.group-2{
-    margin-left: 15px;
+.group-2 {
+  margin-left: 15px;
 }
 
 .section-2 p {
-    color: var(--grey);
-    font-weight: 400;
-    font-size: 20px;
+  color: var(--grey);
+  font-weight: 400;
+  font-size: 20px;
 }
-.cards{
-    display: flex;
-    align-items: center;
-    justify-content: space-evenly;
+.cards {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
 }
 
-.icon{
+.icon {
   background-color: var(--blue) !important;
   padding: 16px;
-  border-radius: 50%;
+  border-radius: 50% !important;
   width: 45% !important;
   margin-left: 45px !important;
-
 }
 
-.cards div{
+.cards div {
   background-color: var(--white-300);
   margin-left: 8px;
   width: 20.5%;
+  border-radius: 5px;
 }
 
-.cards div h3{
+.cards div h3 {
   font-family: var(--font-1);
   width: 118%;
   margin-left: -13px;
-  font-size: 10px;
+  font-size: 23px;
 }
-@media screen and (min-width:480px) and (max-width:640px) {
-    .hero-content{
-        display: block;
-    }
-    .content-left{
-        display: block;
-    }
-    .group-2{
-        margin-left: 0;
-    }
-    .cards{
-      display: none;
-    }
+.section-3 {
+  background-color: var(--white-300);
+}
+.get-stated h2 {
+  font-family: var(--font-1);
+}
+
+.section-4 p {
+  color: var(--grey);
+  font-weight: 400;
+  font-size: 18px;
+}
+@media screen and (min-width: 480px) and (max-width: 640px) {
+  .hero-content {
+    display: block;
+  }
+  .content-left {
+    display: block;
+  }
+  .group-2 {
+    margin-left: 0;
+  }
+  .cards {
+    display: none;
+  }
 }

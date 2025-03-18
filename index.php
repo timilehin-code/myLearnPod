@@ -148,38 +148,90 @@
                 </div>
                 <div class="p-3">
                     <div class="icon">
-                    <i class="fa-solid fa-chalkboard-user text-center fa-2xl text-light"></i>
+                        <i class="fa-solid fa-chalkboard-user text-center fa-2xl text-light"></i>
                     </div>
                     <h3 class="text-dark text-center">Experienced
-                    Tutors</h3>
+                        Tutors</h3>
                 </div>
                 <div class="p-3">
                     <div class="icon">
-                    <i class="fa-solid fa-chalkboard-user text-center fa-2xl text-light"></i>
+                        <i class="fa-solid fa-chalkboard-user text-center fa-2xl text-light"></i>
                     </div>
                     <h3 class="text-dark text-center">Project based
-                    learning</h3>
+                        learning</h3>
                 </div>
                 <div class="p-3">
                     <div class="icon">
-                    <i class="fa-solid fa-building-columns fa-2xl text-light"></i>
+                        <i class="fa-solid fa-building-columns fa-2xl text-light"></i>
                     </div>
                     <h3 class="text-dark text-center">Build your
-                    Portfolio</h3>
+                        Portfolio</h3>
                 </div>
                 <div class="p-3">
                     <div class="icon">
-                    <i class="fa-solid fa-certificate fa-2xl text-light"></i>
+                        <i class="fa-solid fa-certificate fa-2xl text-light"></i>
                     </div>
                     <h3 class="text-dark text-center">Become
-                    Certified</h3>
+                        Certified</h3>
                 </div>
                 <div class="p-3">
                     <div class="icon">
-                    <i class="fa-solid fa-link fa-2xl text-light"></i>
+                        <i class="fa-solid fa-link fa-2xl text-light"></i>
                     </div>
                     <h3 class="text-dark text-center">Land your
-                    dream job</h3>
+                        dream job</h3>
+                </div>
+            </div>
+        </div>
+        <div class="section-3 mt-5 w-100" style="overflow:hidden; border-bottom:2px solid black">
+
+            <div class="container">
+                <div class="d-flex mt-5">
+                    <img src="assets/images/my_learpod.png" alt="" width="500">
+                    <!-- get started -->
+                    <div class="get-stated mx-4">
+                        <p class="text-danger fw-bold text-uppercase">Get started</p>
+                        <h2 class="text-black">
+                            Explore Thousand of <br> Creative Opportunities.
+                        </h2>
+                        <p>Experience the industry by launching a project with mentorship and collaboration. Get
+                            certified in three steps:</p>
+                        <ul class="list-unstyled">
+                            <li><i class="fa-solid fa-check text-primary"></i> Create an account <span
+                                    class="text-danger">now!</span></li>
+                            <li><i class="fa-solid fa-check text-primary"></i> Choose your perfect course</li>
+                            <li><i class="fa-solid fa-check text-primary"></i> Upon completion, get Certified</li>
+                        </ul>
+                        <button class="text-uppercase btn fw-bold btn-danger">Join Class Now</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="section-4 mt-4">
+            <div class="container">
+                <div class="d-flex">
+                    <div class="mt-3">
+                        <h1 class="text-black">What you'll learn on this Course</h1>
+
+                        <h3 class="text-primary">
+                            Build Engaging and High-Performing Web Experiences
+                        </h3>
+                        <h6 class="text-grey">
+                            <p> Front-end web development goes beyond simple template-based CMS solutions.</p>
+
+                            <p> As a front-end developer, you craft dynamic, interactive, and visually stunning web <br>
+                                pages
+                                that captivate users and keep them engaged. </p>
+
+                            <p> Your work ensures that every element on a website functions smoothly, providing an <br>
+                                exceptional user experience.</p>
+                        </h6>
+                        <h3 class="text-primary">
+                            Shape the First Impression of Every Website
+                        </h3>
+                        <p>Everything a user sees and interacts with on a website is your domain. From eye- <br>catching layouts to seamless animations, you are responsible for translating UI/UX <br> designs into fully functional and responsive web interfaces.</p>
+                        <p>A well-designed front end doesn’t just look good—it enhances usability, keeps visitors <br> engaged, and drives conversions.</p>
+                    </div>
                 </div>
             </div>
         </div>
