@@ -113,6 +113,9 @@
 .load{
   margin-left: 110px;
 }
+.section-5{
+  background: var(--white-300);
+}
 @media screen and (min-width: 480px) and (max-width: 640px) {
   .hero-content {
     display: block;
