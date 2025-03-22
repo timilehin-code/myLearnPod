@@ -116,6 +116,23 @@
 .section-5{
   background: var(--white-300);
 }
+.section-5 .faq-head h4{
+  font-family: var(--font-1);
+}
+.faq-question p{
+  color: var(--grey);
+}
+.faq-question {
+  height: 0;
+  visibility: collapse;
+  transition: height 500ms ease-in-out;
+}
+.show-faq{
+  height: 100%;
+  visibility: visible;
+  transition: height 500ms ease-in-out;
+
+}
 @media screen and (min-width: 480px) and (max-width: 640px) {
   .hero-content {
     display: block;

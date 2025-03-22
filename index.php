@@ -290,9 +290,9 @@
                                 <h1 class="text-danger text-center"><strike>₦50,000</strike></h1>
                                 <h1 class="text-primary text-center">₦24,000</h1>
                                 <button class="btn btn-primary w-100 p-3">Join Class Now</button>
-                                <p class="text-center"><small >
-                                    and then ₦50,000 monthly for 3 months
-                                </small></p>
+                                <p class="text-center"><small>
+                                        and then ₦50,000 monthly for 3 months
+                                    </small></p>
                             </div>
                         </div>
                     </div>
@@ -456,84 +456,95 @@
         <div class="section-5 mt-5">
             <div class="container">
                 <h1 class="text-black text-center">Frequently Asked Questions</h1>
-                <div class="accordion mt-3" id="accordionExample">
-                    <div class="accordion-item">
-                        <h2 class="accordion-header">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                Accordion Item #1
-                            </button>
-                        </h2>
-                        <div id="collapseOne" class="accordion-collapse collapse show"
-                            data-bs-parent="#accordionExample">
-                            <div class="accordion-body">
-                                <strong>This is the first item's accordion body.</strong> It is shown by default, until
-                                the collapse plugin adds the appropriate classes that we use to style each element.
-                                These classes control the overall appearance, as well as the showing and hiding via CSS
-                                transitions. You can modify any of this with custom CSS or overriding our default
-                                variables. It's also worth noting that just about any HTML can go within the
-                                <code>.accordion-body</code>, though the transition does limit overflow.
-                            </div>
-                        </div>
+                <div class="faqs mt-2">
+                    <div class="faq-head bg-white rounded-1 p-2">
+                        <h4 class="text-center text-black">What sets your academy apart from other learning
+                            institutions?
+                        </h4>
                     </div>
-                    <div class="accordion-item">
-                        <h2 class="accordion-header">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                Accordion Item #2
-                            </button>
-                        </h2>
-                        <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                            <div class="accordion-body">
-                                <strong>This is the second item's accordion body.</strong> It is hidden by default,
-                                until the collapse plugin adds the appropriate classes that we use to style each
-                                element. These classes control the overall appearance, as well as the showing and hiding
-                                via CSS transitions. You can modify any of this with custom CSS or overriding our
-                                default variables. It's also worth noting that just about any HTML can go within the
-                                <code>.accordion-body</code>, though the transition does limit overflow.
-                            </div>
-                        </div>
+                    <div class="faq-question bg-white rounded-2 p-2">
+                        <p>
+                            Our academy stands out for its commitment to providing hands-on, project-based learning
+                            experiences that prepare students for success in the real world. With a blend of video
+                            classes and live sessions with expert instructors. We offer a dynamic and immersive learning
+                            environment unmatched by traditional educational institutions
+                        </p>
                     </div>
-                    <div class="accordion-item">
-                        <h2 class="accordion-header">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                Accordion Item #3
-                            </button>
-                        </h2>
-                        <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                            <div class="accordion-body">
-                                <strong>This is the third item's accordion body.</strong> It is hidden by default, until
-                                the collapse plugin adds the appropriate classes that we use to style each element.
-                                These classes control the overall appearance, as well as the showing and hiding via CSS
-                                transitions. You can modify any of this with custom CSS or overriding our default
-                                variables. It's also worth noting that just about any HTML can go within the
-                                <code>.accordion-body</code>, though the transition does limit overflow.
-                            </div>
-                        </div>
+                </div>
+                <div class="faqs mt-2">
+                    <div class="faq-head bg-white rounded-1 p-2">
+                        <h4 class="text-center text-black">What kind of support do students receive from the
+                            instructors?
+                        </h4>
                     </div>
-                    <div class="accordion-item">
-                        <h2 class="accordion-header">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                Accordion Item #3
-                            </button>
-                        </h2>
-                        <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                            <div class="accordion-body">
-                                <strong>This is the third item's accordion body.</strong> It is hidden by default, until
-                                the collapse plugin adds the appropriate classes that we use to style each element.
-                                These classes control the overall appearance, as well as the showing and hiding via CSS
-                                transitions. You can modify any of this with custom CSS or overriding our default
-                                variables. It's also worth noting that just about any HTML can go within the
-                                <code>.accordion-body</code>, though the transition does limit overflow.
-                            </div>
-                        </div>
+                    <div class="faq-question bg-white rounded-2 p-2">
+                        <p>
+                            Our instructors are experienced practicing professionals who are dedicated to student
+                            success. They provide regular feedback, coaching, and mentorship throughout the courses.
+                            Students can also schedule one-on-one sessions with instructors as needed.
+                        </p>
+                    </div>
+                </div>
+                <div class="faqs mt-2">
+                    <div class="faq-head bg-white rounded-1 p-2">
+                        <h4 class="text-center text-black">What is project-based learning (PBL) &amp; why it is better?
+                        </h4>
+                    </div>
+                    <div class="faq-question bg-white rounded-2 p-2">
+                        <p>
+                            - Project-based learning (PBL) is an instructional approach where students learn through
+                            engaging in real-world projects. Unlike traditional methods that focus on rote memorization,
+                            PBL emphasizes hands-on experience, problem-solving, and collaboration, allowing students to
+                            develop critical thinking and practical skills.
+                        </p>
+                    </div>
+                </div>
+                <div class="faqs mt-2">
+                    <div class="faq-head bg-white rounded-1 p-2">
+                        <h4 class="text-center text-black">How do the live sessions with instructors work in the online
+                            classes?
+                        </h4>
+                    </div>
+                    <div class="faq-question bg-white rounded-2 p-2">
+                        <p>
+                            The live online sessions are conducted via video conferencing. Instructors lead discussions,
+                            provide feedback on projects, and answer questions in real time. Students can participate
+                            actively and interact with the instructor and their classmates.
+                        </p>
+                    </div>
+                </div>
+                <div class="faqs mt-2">
+                    <div class="faq-head bg-white rounded-1 p-2">
+                        <h4 class="text-center text-black">How do students access course materials and submit
+                            assignments?
+                        </h4>
+                    </div>
+                    <div class="faq-question bg-white rounded-2 p-2">
+                        <p>
+                            Our online learning platform allows students to access all course content, including lecture
+                            videos, reading materials, and project instructions. Assignments and projects are submitted
+                            digitally through the platform.
+                        </p>
+                    </div>
+                </div>
+                <div class="faqs mt-2">
+                    <div class="faq-head bg-white rounded-1 p-2">
+                        <h4 class="text-center text-black">Are there any prerequisites or prior experience required to
+                            enroll in your classes?
+                        </h4>
+                    </div>
+                    <div class="faq-question bg-white rounded-2 p-2">
+                        <p>
+                            The prerequisites vary by course, but we generally welcome students of all skill levels.
+                            Many of our classes are designed for beginners who are eager to learn. We do recommend
+                            reviewing the course descriptions to ensure a good fit or speak with the academy.
+                        </p>
                     </div>
                 </div>
             </div>
         </div>
     </body>
+    <script src="assets/js/script.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/js/bootstrap.min.js" crossorigin="anonymous"
         referrerpolicy="no-referrer"></script>
 </body>
