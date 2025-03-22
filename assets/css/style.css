@@ -104,6 +104,12 @@
   font-weight: 400;
   font-size: 18px;
 }
+.reviews p{
+  font-size: 15px;
+}
+.load{
+  margin-left: 110px;
+}
 @media screen and (min-width: 480px) and (max-width: 640px) {
   .hero-content {
     display: block;

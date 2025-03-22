@@ -229,8 +229,158 @@
                         <h3 class="text-primary">
                             Shape the First Impression of Every Website
                         </h3>
-                        <p>Everything a user sees and interacts with on a website is your domain. From eye- <br>catching layouts to seamless animations, you are responsible for translating UI/UX <br> designs into fully functional and responsive web interfaces.</p>
-                        <p>A well-designed front end doesn’t just look good—it enhances usability, keeps visitors <br> engaged, and drives conversions.</p>
+                        <p>Everything a user sees and interacts with on a website is your domain. From eye- <br>catching
+                            layouts to seamless animations, you are responsible for translating UI/UX <br> designs into
+                            fully functional and responsive web interfaces.</p>
+                        <p>A well-designed front end doesn’t just look good—it enhances usability, keeps visitors <br>
+                            engaged, and drives conversions.</p>
+                        <h3 class="text-primary">
+                            The perfect blend of design and code
+                        </h3>
+                        <p>A skilled front-end developer bridges the gap between aesthetics and functionality.</p>
+                        <p>With strong coding expertise and a keen understanding of design principles, you create <br>
+                            web applications that are not just visually appealing but also highly interactive.</p>
+                        <p>Whether it’s crafting smooth transitions, optimizing performance, or ensuring <br>
+                            accessibility, your role is crucial in building modern digital experiences.</p>
+                        <h3 class="text-primary">Frontend vs Backend: What sets you apart?</h3>
+                        <p>Unlike back-end developers who work on server-side logic and databases, front-end <br>
+                            developers focus on what users see and interact with.</p>
+                        <p>Your expertise in HTML, CSS, JavaScript, and frameworks like React or Vue brings designs to
+                            life.</p>
+                        <p>While back-end developers ensure data is processed correctly, it’s your work that <br> makes
+                            a
+                            website functional, engaging, and visually impressive.</p>
+                        <h3 class="text-primary">
+                            Ready to take your Frontend skill to the next level
+                        </h3>
+                        <p>If you’re passionate about crafting exceptional web experiences, front-end <br> development
+                            is your gateway to a rewarding career. Whether you’re building from <br> scratch or
+                            optimizing existing sites, your skills will be in high demand.
+                        </p>
+                        <p>
+                            Start mastering front-end development today and create web experiences that users love!
+                        </p>
+                    </div>
+                    <div class="mt-3 ">
+                        <h5 class="fw-bold text-primary text-center text-uppercase">Students Testimonials</h5>
+                        <p>Testimonials from certified graduates</p>
+                        <!--  google reviews -->
+                        <div class="bg-dark reviews p-3 border-0 rounded">
+                            <div class="d-flex  justify-content-around ">
+                                <div class="pofile d-flex">
+                                    <img src="assets/images/unnamed.png" alt="">
+                                    <h6 class="fw-bold mx-1 text-white mt-2">Halimah Lamide</h6>
+                                </div>
+                                <div class="logo">
+                                    <img src="assets/images/icon.svg" width="20" height="20">
+                                </div>
+                            </div>
+                            <div class="stars">
+                                <img src="assets/images/f.svg" alt="" width="15" height="15">
+                                <img src="assets/images/f.svg" alt="" width="15" height="15">
+                                <img src="assets/images/f.svg" alt="" width="15" height="15">
+                                <img src="assets/images/f.svg" alt="" width="15" height="15">
+                                <img src="assets/images/f.svg" alt="" width="15" height="15">
+                            </div>
+                            <p class="text-white">
+                                My learning experience has been a great <br> one. The environment is conducive and top -
+                                <br> notch for learning. The tutors are very good <br> at what they teach and takes
+                                their time to...
+                            </p>
+                        </div>
+                        <div class="bg-dark reviews p-3 border-0 rounded mt-2">
+                            <div class="d-flex  justify-content-around ">
+                                <div class="pofile d-flex">
+                                    <img src="assets/images/unnamed.png" alt="">
+                                    <h6 class="fw-bold mx-1 text-white mt-2">Halimah Lamide</h6>
+                                </div>
+                                <div class="logo">
+                                    <img src="assets/images/icon.svg" width="20" height="20">
+                                </div>
+                            </div>
+                            <div class="stars">
+                                <img src="assets/images/f.svg" alt="" width="15" height="15">
+                                <img src="assets/images/f.svg" alt="" width="15" height="15">
+                                <img src="assets/images/f.svg" alt="" width="15" height="15">
+                                <img src="assets/images/f.svg" alt="" width="15" height="15">
+                                <img src="assets/images/f.svg" alt="" width="15" height="15">
+                            </div>
+                            <p class="text-white">
+                                My learning experience has been a great <br> one. The environment is conducive and top -
+                                <br> notch for learning. The tutors are very good <br> at what they teach and takes
+                                their time to...
+                            </p>
+                        </div>
+                        <div class="bg-dark reviews p-3 border-0 rounded mt-2">
+                            <div class="d-flex  justify-content-around ">
+                                <div class="pofile d-flex">
+                                    <img src="assets/images/unnamed.png" alt="">
+                                    <h6 class="fw-bold mx-1 text-white mt-2">Halimah Lamide</h6>
+                                </div>
+                                <div class="logo">
+                                    <img src="assets/images/icon.svg" width="20" height="20">
+                                </div>
+                            </div>
+                            <div class="stars">
+                                <img src="assets/images/f.svg" alt="" width="15" height="15">
+                                <img src="assets/images/f.svg" alt="" width="15" height="15">
+                                <img src="assets/images/f.svg" alt="" width="15" height="15">
+                                <img src="assets/images/f.svg" alt="" width="15" height="15">
+                                <img src="assets/images/f.svg" alt="" width="15" height="15">
+                            </div>
+                            <p class="text-white">
+                                My learning experience has been a great <br> one. The environment is conducive and top -
+                                <br> notch for learning. The tutors are very good <br> at what they teach and takes
+                                their time to...
+                            </p>
+                        </div>
+                        <div class="bg-dark reviews p-3 border-0 rounded mt-2">
+                            <div class="d-flex  justify-content-around ">
+                                <div class="pofile d-flex">
+                                    <img src="assets/images/unnamed.png" alt="">
+                                    <h6 class="fw-bold mx-1 text-white mt-2">Halimah Lamide</h6>
+                                </div>
+                                <div class="logo">
+                                    <img src="assets/images/icon.svg" width="20" height="20">
+                                </div>
+                            </div>
+                            <div class="stars">
+                                <img src="assets/images/f.svg" alt="" width="15" height="15">
+                                <img src="assets/images/f.svg" alt="" width="15" height="15">
+                                <img src="assets/images/f.svg" alt="" width="15" height="15">
+                                <img src="assets/images/f.svg" alt="" width="15" height="15">
+                                <img src="assets/images/f.svg" alt="" width="15" height="15">
+                            </div>
+                            <p class="text-white">
+                                My learning experience has been a great <br> one. The environment is conducive and top -
+                                <br> notch for learning. The tutors are very good <br> at what they teach and takes
+                                their time to...
+                            </p>
+                        </div>
+                        <div class="bg-dark reviews p-3 border-0 rounded mt-2">
+                            <div class="d-flex  justify-content-around ">
+                                <div class="pofile d-flex">
+                                    <img src="assets/images/unnamed.png" alt="">
+                                    <h6 class="fw-bold mx-1 text-white mt-2">Halimah Lamide</h6>
+                                </div>
+                                <div class="logo">
+                                    <img src="assets/images/icon.svg" width="20" height="20">
+                                </div>
+                            </div>
+                            <div class="stars">
+                                <img src="assets/images/f.svg" alt="" width="15" height="15">
+                                <img src="assets/images/f.svg" alt="" width="15" height="15">
+                                <img src="assets/images/f.svg" alt="" width="15" height="15">
+                                <img src="assets/images/f.svg" alt="" width="15" height="15">
+                                <img src="assets/images/f.svg" alt="" width="15" height="15">
+                            </div>
+                            <p class="text-white">
+                                My learning experience has been a great <br> one. The environment is conducive and top -
+                                <br> notch for learning. The tutors are very good <br> at what they teach and takes
+                                their time to...
+                            </p>
+                        </div>
+                    <button class="btn btn-dark load mt-3 text-center">Load more</button>
                     </div>
                 </div>
             </div>
