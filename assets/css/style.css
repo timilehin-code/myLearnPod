@@ -104,6 +104,9 @@
   font-weight: 400;
   font-size: 18px;
 }
+.section-4 h4{
+  font-family: var(--font-1);
+}
 .reviews p{
   font-size: 15px;
 }

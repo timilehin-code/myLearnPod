@@ -260,6 +260,41 @@
                         <p>
                             Start mastering front-end development today and create web experiences that users love!
                         </p>
+                        <h3 class="text-primary mt-5">
+                            Delivery Method
+                        </h3>
+                        <h4 class="text-danger">
+                            Virtual-Live Classes
+                        </h4>
+                        <p>
+                            Our virtual classes are more than just lectures—they’re interactive learning <br>
+                            experiences. You’ll be able to ask questions, participate in discussions, and receive <br>
+                            <b>real-time</b> guidance from your instructors.
+                        </p>
+                        <p>With the combination of engaging video lessons and live instructor-led sessions, you’ll <br>
+                            stay on track, gain deeper insights, and receive personalized support—all from the <br>
+                            comfort of your home.</p>
+                        <h4 class="text-danger">
+                            Class Exercises & Assignments
+                        </h4>
+                        <p>You will have assignments from your instructor(s) and these are necessary, they <br> are an
+                            important part of your journey to becoming a professional frontend <br> developer.</p>
+                        <div class="d-flex align-items-center ">
+                            <div class="bg-light rounded-2 p-5 shadow ">
+                                <h1 class="text-center tex-dark">
+                                    Discount Offer
+                                </h1>
+                                <div class="alert alert-info">
+                                    Enjoy 50% off first month
+                                </div>
+                                <h1 class="text-danger text-center"><strike>₦50,000</strike></h1>
+                                <h1 class="text-primary text-center">₦24,000</h1>
+                                <button class="btn btn-primary w-100 p-3">Join Class Now</button>
+                                <small class="">
+                                    and then ₦50,000 monthly for 3 months
+                                </small>
+                            </div>
+                        </div>
                     </div>
                     <div class="mt-3 ">
                         <h5 class="fw-bold text-primary text-center text-uppercase">Students Testimonials</h5>
@@ -380,7 +415,153 @@
                                 their time to...
                             </p>
                         </div>
-                    <button class="btn btn-dark load mt-3 text-center">Load more</button>
+                        <button class="btn btn-dark load mt-3 text-center">Load more</button>
+                        <div class="hero-form bg-primary p-4 mt-5">
+                            <h4 class="text-center text-white">
+                                Secure Your Spot
+                            </h4>
+                            <h6 class="text-center text-white">Enjoy a mind blowing learning experience.</h6>
+                            <form action="" class="mt-4" method="post">
+                                <div class="d-block">
+                                    <label for="" class="p-2 fw-bold text-white">First Name</label><br>
+                                    <input type="text" name="" id="" class="w-100 p-2"><br>
+                                </div>
+                                <div class="d-block">
+                                    <label for="" class="p-2 fw-bold text-white">Last Name</label><br>
+                                    <input type="text" name="" id="" class="w-100 p-2"><br>
+                                </div>
+                                <div class="d-block">
+                                    <label for="" class="p-2 fw-bold text-white">Phone Number</label><br>
+                                    <input type="text" name="" id="" class="w-100 p-2"><br>
+                                </div>
+                                <div class="d-block">
+                                    <label for="" class="p-2 fw-bold text-white">Email Adress</label><br>
+                                    <input type="email" name="" id="" class="w-100 p-2"><br>
+                                </div>
+                                <div class="d-block">
+                                    <label for="" class="p-2 fw-bold text-white">Password</label><br>
+                                    <input type="password" name="" id="" class="w-100 p-2"><br>
+                                </div>
+                                <div class="d-block mt-3">
+                                    <button type="submit"
+                                        class="p-2 border-0 text-white text-uppercase">Register</button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- faq -->
+        <div class="section-5 bg-light mt-5">
+            <div class="container">
+                <h1 class="text-black text-center">Frequently Asked Questions</h1>
+                <div class="accordion mt-3" id="accordionPanelsStayOpenExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true"
+                                aria-controls="panelsStayOpen-collapseOne">
+                                Accordion Item #1
+                            </button>
+                        </h2>
+                        <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
+                            <div class="accordion-body">
+                                <strong>This is the first item's accordion body.</strong> It is shown by default, until
+                                the
+                                collapse plugin adds the appropriate classes that we use to style each element. These
+                                classes control the overall appearance, as well as the showing and hiding via CSS
+                                transitions. You can modify any of this with custom CSS or overriding our default
+                                variables.
+                                It's also worth noting that just about any HTML can go within the
+                                <code>.accordion-body</code>, though the transition does limit overflow.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#panelsStayOpen-collapseTwo" aria-expanded="false"
+                                aria-controls="panelsStayOpen-collapseTwo">
+                                Accordion Item #2
+                            </button>
+                        </h2>
+                        <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse">
+                            <div class="accordion-body">
+                                <strong>This is the second item's accordion body.</strong> It is hidden by default,
+                                until
+                                the collapse plugin adds the appropriate classes that we use to style each element.
+                                These
+                                classes control the overall appearance, as well as the showing and hiding via CSS
+                                transitions. You can modify any of this with custom CSS or overriding our default
+                                variables.
+                                It's also worth noting that just about any HTML can go within the
+                                <code>.accordion-body</code>, though the transition does limit overflow.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#panelsStayOpen-collapseThree" aria-expanded="false"
+                                aria-controls="panelsStayOpen-collapseThree">
+                                Accordion Item #3
+                            </button>
+                        </h2>
+                        <div id="panelsStayOpen-collapseThree" class="accordion-collapse collapse">
+                            <div class="accordion-body">
+                                <strong>This is the third item's accordion body.</strong> It is hidden by default, until
+                                the
+                                collapse plugin adds the appropriate classes that we use to style each element. These
+                                classes control the overall appearance, as well as the showing and hiding via CSS
+                                transitions. You can modify any of this with custom CSS or overriding our default
+                                variables.
+                                It's also worth noting that just about any HTML can go within the
+                                <code>.accordion-body</code>, though the transition does limit overflow.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#panelsStayOpen-collapseThree" aria-expanded="false"
+                                aria-controls="panelsStayOpen-collapseThree">
+                                Accordion Item #3
+                            </button>
+                        </h2>
+                        <div id="panelsStayOpen-collapseThree" class="accordion-collapse collapse">
+                            <div class="accordion-body">
+                                <strong>This is the third item's accordion body.</strong> It is hidden by default, until
+                                the
+                                collapse plugin adds the appropriate classes that we use to style each element. These
+                                classes control the overall appearance, as well as the showing and hiding via CSS
+                                transitions. You can modify any of this with custom CSS or overriding our default
+                                variables.
+                                It's also worth noting that just about any HTML can go within the
+                                <code>.accordion-body</code>, though the transition does limit overflow.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#panelsStayOpen-collapseThree" aria-expanded="false"
+                                aria-controls="panelsStayOpen-collapseThree">
+                                Accordion Item #3
+                            </button>
+                        </h2>
+                        <div id="panelsStayOpen-collapseThree" class="accordion-collapse collapse">
+                            <div class="accordion-body">
+                                <strong>This is the third item's accordion body.</strong> It is hidden by default, until
+                                the
+                                collapse plugin adds the appropriate classes that we use to style each element. These
+                                classes control the overall appearance, as well as the showing and hiding via CSS
+                                transitions. You can modify any of this with custom CSS or overriding our default
+                                variables.
+                                It's also worth noting that just about any HTML can go within the
+                                <code>.accordion-body</code>, though the transition does limit overflow.
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
