@@ -207,9 +207,9 @@
                 </div>
             </div>
         </div>
-        <div class="section-4 mt-4">
+        <div class="section-4 d-flex mt-4">
             <div class="container">
-                <div class="d-flex">
+                <div class=" reviews-info">
                     <div class="mt-3">
                         <h1 class="text-black">What you'll learn on this Course</h1>
 
@@ -456,89 +456,101 @@
         <div class="section-5 mt-5">
             <div class="container">
                 <h1 class="text-black text-center">Frequently Asked Questions</h1>
-                <div class="faqs mt-2">
-                    <div class="faq-head bg-white rounded-1 p-2">
-                        <h4 class="text-center text-black">What sets your academy apart from other learning
-                            institutions?
-                        </h4>
+                <div class="text-center m-auto w-75">
+                    <div class="faqs mt-2">
+                        <div class="faq-head bg-white rounded-1 p-2">
+                            <h4 class="text-center text-black">What sets your academy apart from other learning
+                                institutions?
+                            </h4>
+                        </div>
+                        <div class="faq-question bg-white rounded-2 p-2">
+                            <p>
+                                Our academy stands out for its commitment to providing hands-on, project-based learning
+                                experiences that prepare students for success in the real world. With a blend of video
+                                classes and live sessions with expert instructors. We offer a dynamic and immersive
+                                learning
+                                environment unmatched by traditional educational institutions
+                            </p>
+                        </div>
                     </div>
-                    <div class="faq-question bg-white rounded-2 p-2">
-                        <p>
-                            Our academy stands out for its commitment to providing hands-on, project-based learning
-                            experiences that prepare students for success in the real world. With a blend of video
-                            classes and live sessions with expert instructors. We offer a dynamic and immersive learning
-                            environment unmatched by traditional educational institutions
-                        </p>
+                    <div class="faqs mt-2">
+                        <div class="faq-head bg-white rounded-1 p-2">
+                            <h4 class="text-center text-black">What kind of support do students receive from the
+                                instructors?
+                            </h4>
+                        </div>
+                        <div class="faq-question bg-white rounded-2 p-2">
+                            <p>
+                                Our instructors are experienced practicing professionals who are dedicated to student
+                                success. They provide regular feedback, coaching, and mentorship throughout the courses.
+                                Students can also schedule one-on-one sessions with instructors as needed.
+                            </p>
+                        </div>
                     </div>
-                </div>
-                <div class="faqs mt-2">
-                    <div class="faq-head bg-white rounded-1 p-2">
-                        <h4 class="text-center text-black">What kind of support do students receive from the
-                            instructors?
-                        </h4>
+                    <div class="faqs mt-2">
+                        <div class="faq-head bg-white rounded-1 p-2">
+                            <h4 class="text-center text-black">What is project-based learning (PBL) &amp; why it is
+                                better?
+                            </h4>
+                        </div>
+                        <div class="faq-question bg-white rounded-2 p-2">
+                            <p>
+                                - Project-based learning (PBL) is an instructional approach where students learn through
+                                engaging in real-world projects. Unlike traditional methods that focus on rote
+                                memorization,
+                                PBL emphasizes hands-on experience, problem-solving, and collaboration, allowing
+                                students to
+                                develop critical thinking and practical skills.
+                            </p>
+                        </div>
                     </div>
-                    <div class="faq-question bg-white rounded-2 p-2">
-                        <p>
-                            Our instructors are experienced practicing professionals who are dedicated to student
-                            success. They provide regular feedback, coaching, and mentorship throughout the courses.
-                            Students can also schedule one-on-one sessions with instructors as needed.
-                        </p>
+                    <div class="faqs mt-2">
+                        <div class="faq-head bg-white rounded-1 p-2">
+                            <h4 class="text-center text-black">How do the live sessions with instructors work in the
+                                online
+                                classes?
+                            </h4>
+                        </div>
+                        <div class="faq-question bg-white rounded-2 p-2">
+                            <p>
+                                The live online sessions are conducted via video conferencing. Instructors lead
+                                discussions,
+                                provide feedback on projects, and answer questions in real time. Students can
+                                participate
+                                actively and interact with the instructor and their classmates.
+                            </p>
+                        </div>
                     </div>
-                </div>
-                <div class="faqs mt-2">
-                    <div class="faq-head bg-white rounded-1 p-2">
-                        <h4 class="text-center text-black">What is project-based learning (PBL) &amp; why it is better?
-                        </h4>
+                    <div class="faqs mt-2">
+                        <div class="faq-head bg-white rounded-1 p-2">
+                            <h4 class="text-center text-black">How do students access course materials and submit
+                                assignments?
+                            </h4>
+                        </div>
+                        <div class="faq-question bg-white rounded-2 p-2">
+                            <p>
+                                Our online learning platform allows students to access all course content, including
+                                lecture
+                                videos, reading materials, and project instructions. Assignments and projects are
+                                submitted
+                                digitally through the platform.
+                            </p>
+                        </div>
                     </div>
-                    <div class="faq-question bg-white rounded-2 p-2">
-                        <p>
-                            - Project-based learning (PBL) is an instructional approach where students learn through
-                            engaging in real-world projects. Unlike traditional methods that focus on rote memorization,
-                            PBL emphasizes hands-on experience, problem-solving, and collaboration, allowing students to
-                            develop critical thinking and practical skills.
-                        </p>
-                    </div>
-                </div>
-                <div class="faqs mt-2">
-                    <div class="faq-head bg-white rounded-1 p-2">
-                        <h4 class="text-center text-black">How do the live sessions with instructors work in the online
-                            classes?
-                        </h4>
-                    </div>
-                    <div class="faq-question bg-white rounded-2 p-2">
-                        <p>
-                            The live online sessions are conducted via video conferencing. Instructors lead discussions,
-                            provide feedback on projects, and answer questions in real time. Students can participate
-                            actively and interact with the instructor and their classmates.
-                        </p>
-                    </div>
-                </div>
-                <div class="faqs mt-2">
-                    <div class="faq-head bg-white rounded-1 p-2">
-                        <h4 class="text-center text-black">How do students access course materials and submit
-                            assignments?
-                        </h4>
-                    </div>
-                    <div class="faq-question bg-white rounded-2 p-2">
-                        <p>
-                            Our online learning platform allows students to access all course content, including lecture
-                            videos, reading materials, and project instructions. Assignments and projects are submitted
-                            digitally through the platform.
-                        </p>
-                    </div>
-                </div>
-                <div class="faqs mt-2">
-                    <div class="faq-head bg-white rounded-1 p-2">
-                        <h4 class="text-center text-black">Are there any prerequisites or prior experience required to
-                            enroll in your classes?
-                        </h4>
-                    </div>
-                    <div class="faq-question bg-white rounded-2 p-2">
-                        <p>
-                            The prerequisites vary by course, but we generally welcome students of all skill levels.
-                            Many of our classes are designed for beginners who are eager to learn. We do recommend
-                            reviewing the course descriptions to ensure a good fit or speak with the academy.
-                        </p>
+                    <div class="faqs mt-2">
+                        <div class="faq-head bg-white rounded-1 p-2">
+                            <h4 class="text-center text-black">Are there any prerequisites or prior experience required
+                                to
+                                enroll in your classes?
+                            </h4>
+                        </div>
+                        <div class="faq-question bg-white rounded-2 p-2">
+                            <p>
+                                The prerequisites vary by course, but we generally welcome students of all skill levels.
+                                Many of our classes are designed for beginners who are eager to learn. We do recommend
+                                reviewing the course descriptions to ensure a good fit or speak with the academy.
+                            </p>
+                        </div>
                     </div>
                 </div>
             </div>

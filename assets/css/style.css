@@ -107,6 +107,9 @@
 .section-4 h4{
   font-family: var(--font-1);
 }
+.reviews-info{
+  display: flex;
+}
 .reviews p{
   font-size: 15px;
 }
@@ -145,5 +148,17 @@
   }
   .cards {
     display: none;
+  }
+  .section-3{
+    display: block !important;
+  }
+  .section-3 img{
+    display: none;
+  }
+  .reviews{
+    width: 90%;
+  }
+  .reviews-info{
+    display: block !important;
   }
 }
