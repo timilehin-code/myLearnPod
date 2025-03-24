@@ -556,7 +556,9 @@
             </div>
         </div>
     </body>
+    <!-- custom js -->
     <script src="assets/js/script.js"></script>
+    <!-- bootstrap js -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/js/bootstrap.min.js" crossorigin="anonymous"
         referrerpolicy="no-referrer"></script>
 </body>
